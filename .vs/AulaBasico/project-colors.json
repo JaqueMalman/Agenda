@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6912918-3e09-4a90-aa57-590a79fbb22b": {
+      "ProjectGuid": "e6912918-3e09-4a90-aa57-590a79fbb22b",
+      "DisplayName": "BasicoApp",
+      "ColorIndex": 0
+    },
+    "83382a03-54b6-43a2-8c5d-ec96ab45876c": {
+      "ProjectGuid": "83382a03-54b6-43a2-8c5d-ec96ab45876c",
+      "DisplayName": "Tarefas",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

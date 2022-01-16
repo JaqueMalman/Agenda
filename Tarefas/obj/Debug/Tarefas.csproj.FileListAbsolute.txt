@@ -1,0 +1,6 @@
+C:\Users\Toco\source\repos\AulaBasico\Tarefas\obj\Debug\Tarefas.csproj.AssemblyReference.cache
+C:\Users\Toco\source\repos\AulaBasico\Tarefas\obj\Debug\Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Toco\source\repos\AulaBasico\Tarefas\bin\Debug\Tarefas.dll
+C:\Users\Toco\source\repos\AulaBasico\Tarefas\bin\Debug\Tarefas.pdb
+C:\Users\Toco\source\repos\AulaBasico\Tarefas\obj\Debug\Tarefas.dll
+C:\Users\Toco\source\repos\AulaBasico\Tarefas\obj\Debug\Tarefas.pdb

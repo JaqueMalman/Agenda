@@ -1,0 +1,14 @@
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\bin\Debug\BasicoApp.exe.config
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\bin\Debug\BasicoApp.exe
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\bin\Debug\BasicoApp.pdb
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.csproj.AssemblyReference.cache
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.Properties.Resources.resources
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.csproj.GenerateResource.cache
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.csproj.CoreCompileInputs.cache
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.exe
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.pdb
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.AgendaParaTarefas.resources
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\bin\Debug\Tarefas.dll
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\bin\Debug\Tarefas.pdb
+C:\Users\Toco\source\repos\AulaBasico\BasicoApp\obj\Debug\BasicoApp.csproj.CopyComplete
